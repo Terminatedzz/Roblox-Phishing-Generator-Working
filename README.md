@@ -1,7 +1,7 @@
-# Roblox Phishing Generator
+# Free Roblox Phishing Generator
 
 
-#Tutorial 
+# Tutorial 
 
 ```
 
@@ -14,6 +14,11 @@ and everything else, save the setup.php and open Generator.php
 If everything is done correctly ur generator should work!
 # Contact me
 
-Termed#0001
+@Termed#0001
 
 Working Roblox Phishing Generator made by Termed | if u wanna buy a better generator contact me!
+
+```
+
+# This is just Part 1 of the Generator more updates are coming soon!
+
