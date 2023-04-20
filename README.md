@@ -12,4 +12,4 @@ If everything is done correctly ur generator should work!
 
 Termed#0001
 
-Working Roblox Phishing Generator made by Termed | if u wanna buy a better generator contact me!
+Working Roblox Phishing Generator made by Termed | if u wanna buy a better generator contact me!```
