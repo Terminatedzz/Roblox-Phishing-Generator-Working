@@ -54,5 +54,7 @@ Note: if u want a better domain buy one from godaddy.com or cosmotown
 
 6. ur done u made ur generator!
 
+Errors with setup contact @Termed#0001
+
 ```
 
