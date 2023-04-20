@@ -1,9 +1,9 @@
-# Free Roblox Phishing Generator
+# Free Roblox Phishing Generator 📌
 
 <img src="https://media.discordapp.net/attachments/1098662394386976842/1098670204629815317/th.png?width=568&height=567">
 
 
-# Tutorial 
+# Tutorial 🌟
 
 ```
 
@@ -22,5 +22,5 @@ Working Roblox Phishing Generator made by Termed | if u wanna buy a better gener
 
 ```
 
-# This is just Part 1 of the Generator more updates are coming soon!
+# This is just Part 1 of the Generator more updates are coming soon! 
 
