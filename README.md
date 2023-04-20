@@ -50,5 +50,5 @@ Note: if u want a better domain buy one from godaddy.com or cosmotown
 
 5. Now go back to https://www.000webhost.com/members/website/list and click ur site link, Now type https://{UrSiteName}.000webhostapp.com/Generator.php
 
-6. ur done u made ur generator!**
+6. ur done u made ur generator!
 
