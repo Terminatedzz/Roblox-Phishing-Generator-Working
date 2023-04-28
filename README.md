@@ -28,7 +28,7 @@ Working Roblox Phishing Generator made by Termed | if u wanna buy a better gener
 
 # Discord server 
 
-https://discord.gg/incog
+XXX
 
 # Setup Hosting for people who dont know
 
