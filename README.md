@@ -1,3 +1,6 @@
+# This is shit 💀
+uploading better one on my other repo soon (https://github.com/Terminatedzz/roblox-phishing-Working)
+
 # Free Roblox Phishing Generator 📌
 
 
